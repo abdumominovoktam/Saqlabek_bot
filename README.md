@@ -57,7 +57,7 @@
 ```
 ✏️ Xabar tahrirlandi
 💬 Chat: Ishchi Guruh
-👤 Kimdan: Sardor (@sardor_work)
+👤 Kimdan: O`ktam (@oktam_work)
 📅 Yuborilgan: 16.11.2026 08:00 | ✏️ Tahrirlangan: 16.11.2026 09:20
 
 ❌ Eski matn:
@@ -113,7 +113,7 @@ Endi botingiz to‘liq tayyor!
 
 ### 1. Repositoryni klonlash yoki yuklab olish:
 ```bash
-git clone https://github.com/<sizning_username>/Saqlabek_bot.git
+git clone https://github.com/abdumominovoktam/Saqlabek_bot.git
 cd Saqlabek_bot
 ```
 
@@ -174,7 +174,7 @@ git commit -m "feat: initial commit - Saqlabek anti-delete and view-once saver b
 git branch -M main
 
 # 5. O'zingizning GitHub repository manzilingizni ulash
-git remote add origin https://github.com/<sizning_username>/Saqlabek_bot.git
+git remote add origin https://github.com/abdumominovoktam/Saqlabek_bot.git
 
 # 6. GitHub ga yuklash
 git push -u origin main
@@ -182,6 +182,18 @@ git push -u origin main
 
 ---
 
+## 👨‍💻 Muallif va Bog‘lanish (Author & Contacts)
+
+Loyiha bo‘yicha takliflar, savollar yoki yangi funksiyalar bo‘yicha bemalol bog‘lanishingiz mumkin:
+
+- **Dasturchi:** Öktam Abdumo'minov
+- **Telegram Kanal:** [Öktam Dev </> (@oktam_dev)](https://t.me/oktam_dev)
+- **Shaxsiy Telegram:** [@Abdumominov_Oktam](https://t.me/Abdumominov_Oktam)
+- **Instagram:** [@oktam_dev](https://instagram.com/oktam_dev)
+- **Telefon:** `+998 (33) 336-05-05`
+
+---
+
 ## 📄 Litsenziya
 
-Ushbu loyiha [MIT Litsenziyasi](LICENSE) asosida tarqatiladi.
+Ushbu loyiha [MIT Litsenziyasi](LICENSE) asosida erkin tarqatiladi. Mualliflik huquqi saqlangan holda foydalanish mumkin.
